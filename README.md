@@ -46,6 +46,8 @@ print(np.array([1, 2, 3]) ** 2)
 ```
 其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
 
+<img src="https://github.com/caic6/GitDemo/blob/main/images/abc.png" width="800" alt="截图一">
+
 ### 雷霆划破天际线
 <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png" width="800" alt="皮卡丘觉醒">
 
