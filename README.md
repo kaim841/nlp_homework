@@ -49,11 +49,11 @@ print(np.array([1,2,3])** 2)
 
 我最喜欢的环境管理工具是conda
 
-<img src="https://github.com/caic6/GitDemo/blob/main/images/abc.png" width="800" alt="截图一">
+<img src="https://github.com/caic6/GitDemo/blob/main/images/bde.png" width="800" alt="截图一">
 
 我可以在IDE上使用我建立的虚拟环境
 
-<img src="https://github.com/caic6/GitDemo/blob/main/images/abc.png" width="800" alt="截图二">
+<img src="https://github.com/caic6/GitDemo/blob/main/images/def.png" width="800" alt="截图二">
 
 ### 雷霆划破天际线
 <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png" width="800" alt="皮卡丘觉醒">
