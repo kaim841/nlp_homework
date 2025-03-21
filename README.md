@@ -39,14 +39,21 @@
 ## 我的专业是人工智能 <!--二级标题-->
 正在学习用神经网络分析树果营养成分！
 
-## 我最喜欢的一段代码 <!--二级标题-->
+## 我最喜欢的一段代码
 ```python
 import numpy as np
-print(np.array([1, 2, 3]) ** 2)
+print(np.array([1,2,3])** 2)
 ```
-其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
+其中执行 python dev_skills_env.py 可输出结果。
+
+
+我最喜欢的环境管理工具是conda
 
 <img src="https://github.com/caic6/GitDemo/blob/main/images/abc.png" width="800" alt="截图一">
+
+我可以在IDE上使用我建立的虚拟环境
+
+<img src="https://github.com/caic6/GitDemo/blob/main/images/abc.png" width="800" alt="截图二">
 
 ### 雷霆划破天际线
 <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png" width="800" alt="皮卡丘觉醒">
