@@ -110,4 +110,4 @@ print('155.txt分类情况:{}'.format(predict('邮件_files/155.txt')))
 
 # 增加模型评估指标，代码在文件py1.py
 
-<img src="https://github.com/caic6/GitDemo/blob/main/images/4.2.png" width="800" alt="截图一">
+<img src="https://github.com/caic6/GitDemo/blob/main/images/4.2.png" width="800" alt="截图二">
