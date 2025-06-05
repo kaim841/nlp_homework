@@ -803,7 +803,7 @@ except KeyboardInterrupt:
 model = model.cpu()
 for index in range(len(vectorizer.nationality_vocab)):
     nationality = vectorizer.nationality_vocab.lookup_index(index)
-    if nationality == "German":
+    if nationality == "Czech":
         print("Sampled for {}: ".format(nationality))
 
         sampled_indices = sample_from_model(model, vectorizer,
